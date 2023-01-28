@@ -1,8 +1,8 @@
 {
-"pets":[
-{
-"id":1234,
-"name":"Joeee"
-}
-]
+  "pets": [
+    {
+      "id": 1234,
+      "name": "Joeee"
+    }
+  ]
 }
